@@ -22,7 +22,7 @@ Este projeto é uma simulação em C de uma empilhadeira que gerencia caixas de 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/empilhadeira-pilhas.git
+   git clone (https://github.com/queirozallan/atividade3nota.git)
 Compile o código fonte:
 gcc empilhadeira.c -o empilhadeira
 Execute o programa:
