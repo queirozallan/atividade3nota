@@ -7,6 +7,28 @@ na pilha A, e o programa deverá fazer a remoção. Faça um programa que faça 
 das caixas com a empilhadeira.
 
 
+# Simulação de Empilhadeira com Pilhas
+
+Este projeto é uma simulação em C de uma empilhadeira que gerencia caixas de diferentes pesos usando pilhas. O programa permite inserir, consultar e remover caixas, respeitando as restrições de empilhamento (caixas mais pesadas não podem ser colocadas sobre caixas mais leves).
+
+## Funcionalidades
+
+- **Inserir Caixa**: Adiciona uma nova caixa à pilha, respeitando as regras de empilhamento.
+- **Consultar Caixa**: Verifica se uma caixa com um determinado ID está na pilha e retorna sua posição.
+- **Remover Caixa**: Remove uma caixa específica da pilha e reorganiza as caixas de acordo com as regras de empilhamento.
+- **Menu Interativo**: Permite ao usuário escolher a operação desejada.
+
+## Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/empilhadeira-pilhas.git
+Compile o código fonte:
+gcc empilhadeira.c -o empilhadeira
+Execute o programa:
+./empilhadeira
+
+
 
 
 
